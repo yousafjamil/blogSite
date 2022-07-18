@@ -1,0 +1,14 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: #C1C1C1;
+}
+
+.card-img{
+    height: 20%;
+}
